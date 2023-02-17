@@ -1,4 +1,4 @@
-## Servidor de API em Node.js
+## Crud de Usuário com API em Node.js
 
 ## Tecnologias utilizadas:
 - JavaScript<br>
