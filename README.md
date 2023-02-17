@@ -1,4 +1,6 @@
 ## Crud de Usuário com API em Node.js
+![image](https://user-images.githubusercontent.com/88870830/219792418-a40a94f7-0a46-450a-bb18-c1e3974f90b4.png)
+
 
 ## Tecnologias utilizadas:
 - JavaScript<br>
